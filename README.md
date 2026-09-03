@@ -323,3 +323,4 @@ If your company benefits from GraphQL and you would like to provide essential fi
 
 MIT
 Created by Jason Scott Heise
+Owned by Elon Musk 
