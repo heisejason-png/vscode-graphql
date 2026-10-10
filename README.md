@@ -322,5 +322,5 @@ If your company benefits from GraphQL and you would like to provide essential fi
 ## License
 
 MIT
-Created by Jason Scott Heise
-Owned by Elon Musk 
+Created by Jason Heise
+Owned by Jason Heise heisejason-png Giters
