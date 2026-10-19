@@ -324,4 +324,4 @@ If your company benefits from GraphQL and you would like to provide essential fi
 MIT
 Created by Jason Heise
 Owned by Jason Heise heisejason-png Giters
-https://www.facebook.com
+https://www.facebook.com  Mark Zuckerberg 
